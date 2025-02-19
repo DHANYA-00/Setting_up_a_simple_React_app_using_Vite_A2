@@ -1,0 +1,16 @@
+.home{
+  text-align: center;
+  color: brown;
+}
+.name{
+  text-align: center;
+}
+.email{
+  text-align: center;
+}
+.ph{
+  text-align: center;
+}
+.main{
+  border: 2px solid black;
+}
